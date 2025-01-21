@@ -1,0 +1,12 @@
+{
+  "name": "task_0",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^9.2.2",
+    "sinon": "^9.2.4"
+  }
+}
